@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">Resources</string>
+
+    <!-- FormBase-->
+    <string name="strTopbar">Burada Topbar bulunur</string>
+    <!-- FormBase -->
+
+
+    <!-- WizardBase -->
+    <string name="strWizardForward">İleri</string>
+    <string name="strWizardBackward">Geri</string>
+    <!-- WizardBase -->
+
+    <string name="no_maps">Harita Bulunamadı</string>
+
+    <!-- LoginActivity -->
+        <string name="strLogin">Giriş</string>
+        <string name="strRequestPass">Şifre İste</string>
+        <string name="strRememberUsername">Kullanıcı Adımı Hatırla</string>
+        <string name="strSettings">Ayarlar</string>
+
+    <!-- LoginActivity -->
+
+    <!-- SettingsActivity -->
+    <string name="strInternetTest">İnternet Test</string>
+    <string name="strTelekuryeTest">Telekurye Test</string>
+    <string name="strSendData">Bilgileri Gönder</string>
+    <string name="strSendState">Durumu Gönder</string>
+
+    <!-- SettingsActivity -->
+
+    <!-- AssigmentActivity -->
+    <string name="strGiveMission">Görev Ver</string>
+    <!-- AssigmentActivity -->
+
+
+
+    <!-- Dumb Strings -->
+    <string name="strFrag1">111111111111</string>
+    <string name="strFrag2">22222222222</string>
+    <string name="strFrag3">33333333333</string>
+    <string name="strFrag4">44444444444</string>
+
+
+    <!-- Dumb Strings -->
+
+
+    </resources>
